@@ -34,3 +34,6 @@ I know there are plenty of other things like this out there but I had fun making
 super awesome I will move it to my main github.
 
 Hope you all enjoy.
+
+=> Just added the python version. Was added fairly quickly just for practice in python and only has the logistic model
+but seems to run okay. Did not test this one excessively as it was just for gaining familiarity with python
