@@ -150,5 +150,5 @@ def test_creature(environment, itts):
     return wins / itts
 
 def save_creature(creature, filepath):
-    with f as open(filepath, 'wb'):
+    with open(filepath, 'wb') as f:
         pickle.dump(creature, f)
